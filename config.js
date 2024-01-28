@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'Unknownbot-v2'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = '@XLICON-V2' 
